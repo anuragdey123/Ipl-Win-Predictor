@@ -34,4 +34,5 @@ streamlit run app.py
 
 **Visit the App:** Go to [IPL Predictor App](https://ipl.devopssolution.cloud/).
 Link:- https://ipl.devopssolution.cloud/
-
+## How to Use
+1. Visit the live app at [https://ipl.devopssolution.cloud/](https://ipl.devopssolution.cloud/).
