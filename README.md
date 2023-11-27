@@ -34,4 +34,4 @@ streamlit run app.py
 
 
 ## How to Use
-1. Visit the live app at [https://ipl.devopssolution.cloud/](https://ipl.devopssolution.cloud/){:target="_blank"}.
+1. Visit the live app at [https://ipl.devopssolution.cloud/](https://ipl.devopssolution.cloud/)
