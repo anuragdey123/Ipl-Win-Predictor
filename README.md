@@ -32,5 +32,6 @@ cd Ipl-Win-Predictor
 streamlit run app.py
 ```
 
-**Visit the App:** Go to [IPL Predictor App](https://ipl.devopssolution.cloud//).
+**Visit the App:** Go to [IPL Predictor App](https://ipl.devopssolution.cloud/).
+Link:- https://ipl.devopssolution.cloud/
 
