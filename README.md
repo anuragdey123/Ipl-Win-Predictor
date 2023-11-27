@@ -30,7 +30,7 @@ To run the IPL Win Probability Predictor locally, follow these steps:
 git clone https://github.com/anuragdey123/Ipl-Win-Predictor
 cd Ipl-Win-Predictor
 streamlit run app.py
-'''
+```
 
 **Visit the App:** Go to [IPL Predictor App](https://ipl.devopssolution.cloud//).
 
